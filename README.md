@@ -23,6 +23,7 @@ This prediction will help assist in diagnosing future thyroid patients.
 0.1 - Helper Function
 0.2 - Loading Data
 
+
 4 - Data Cleaning
 1.0 - DESCRIPTION OF DATA
 1.1 - Rename Columns
@@ -31,6 +32,7 @@ This prediction will help assist in diagnosing future thyroid patients.
 1.4 - Check NA
 1.5 - Fillout NA
 1.6 - Change Types
+
 1.7 - Descriptive Statistical
 - 1.7.1 - Numerical Attributes
 - 1.7.2 - Categorical Attributes
