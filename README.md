@@ -59,4 +59,6 @@ This prediction will help assist in diagnosing future thyroid patients.
 - 2.1.3 - Sociocultural Hyphoteses
 - 
 2.2 - Final list of Hypotheses
+
+
 2.3 - Feature Engineering
