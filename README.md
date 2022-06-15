@@ -1,4 +1,4 @@
-# HypothyroidProject
+# Hypothyroid Project
 Collection of data of Nairobi Hospital Thyroid patients.
 
 # Nairobi Hospital Thyroid patients data
