@@ -40,10 +40,15 @@ This prediction will help assist in diagnosing future thyroid patients.
 
 
 1.1 - Rename Columns
+
 1.2 - Data Dimensions
+
 1.3 - Data Types
+
 1.4 - Check NA
+
 1.5 - Fillout NA
+
 1.6 - Change Types
 
 1.7 - Descriptive Statistical
