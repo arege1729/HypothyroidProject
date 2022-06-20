@@ -1,10 +1,11 @@
-# Hypothyroid Project
+# Hypothyroid Diagnosis Project
 
 Collection of data of Nairobi Hospital Thyroid patients.
 
-# Nairobi Hospital Thyroid Patients Data
+## Business Context
+### Nairobi Hospital Thyroid Patients Data
 
-Nairobi Hospital is a hospital located in Nairobi Kenya 
+Nairobi Hospital is a hospital located in Nairobi Kenya . Colected data of thyroid information of potential and diagnosed Hypothyroid patients.
 
 The data is provided by Moringa school and can be found [here](http://bit.ly/hypothyroid_data)
 
@@ -15,29 +16,24 @@ I followed in this project the steps of the project management method called CRI
 
 CRISP-DS has the following steps with their respective courts:
 
-1 - Business Question
+### 1 - Business Question
 
-Build a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid.
+Build a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid.This prediction will help assist in analysing and diagnosing future thyroid patients.
 
+### 2- Understanding the Business
 
-2- Understanding the Business
-
-This prediction will help assist in diagnosing future thyroid patients.
-
-3 - Data Collection
+### 3 - Data Collection
 
 
-0.0 - IMPORTS
-
+#### 0.0 - IMPORTS
 0.1 - Helper Function
 
 0.2 - Loading Data
 
 
-4 - Data Cleaning
+### 4 - Data Cleaning
 
-1.0 - DESCRIPTION OF DATA
-
+#### 1.0 - DESCRIPTION OF DATA
 
 1.1 - Rename Columns
 
@@ -55,14 +51,55 @@ This prediction will help assist in diagnosing future thyroid patients.
 
 - 1.7.1 - Numerical Attributes
 - 1.7.2 - Categorical Attributes
-- 
-2.0 FEATURE ENGINEERING
+
+
+### 2.0 FEATURE ENGINEERING
 
 2.1 - Creation of Hyphoteses
 
+- 2.1.1 - Hormonal Hypotheses
 
-- 
-2.2 - Final list of Hypotheses
+- 2.1.2 - Demographic Hypotheses
+
+- 2.1.3 Symptomatic Factors
+
+### EXPLORATORY DATA ANALYSIS
+
+3.1 - Univariate Analysis
+
+  - 3.1.1 Response Variable
+  
+  - 3.1.2 Numerical Variables
+  
+  - 3.1.3 Categorical Attributes
+
+3.2 - Bivariate Analysis
+
+3.3 - Multivariate Analysis
+
+  - Numerical Attributes
+
+### 4.0 DATA PREPARATION
+
+- 4.1 Rescaling
+
+4.2 Transformation
+
+  - 4.2.1 Encoding
+  
+### 5.0 Feature Selection
+
+### 6.0 Machine Learning
+  - 6.1 Linear Regression Model
+
+  - 6.2 Linear Regression Cross Validation
+  
+  - 6.3 Random Forest Regressor
+ 
+  - 6.4 Random Forest Regressor Cross Validation
+
+  - 6.5 ADA Boost
+ 
+  - 6.6 Gradient Boost Regressor
 
 
-2.3 - Feature Engineering
